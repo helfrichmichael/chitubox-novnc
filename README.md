@@ -6,8 +6,6 @@
 
 This is a super basic noVNC build using supervisor to serve CHITUBOX in your favorite web browser. This was primarily built for users using the [popular unraid NAS software](https://unraid.net), to allow them to quickly hop in a browser, slice, and upload their favorite 3D prints.
 
-A lot of this was branched off of dmagyar's awesome [chitubox-vnc-docker](https://hub.docker.com/r/dmagyar/chitubox-vnc-docker/) project, but I found it to be a bit complex for my needs and thought this approach would simplify things a lot.
-
 ## How to use
 
 ### In unraid
